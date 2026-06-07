@@ -28,3 +28,25 @@ This project analyzes customer churn behavior and predicts whether a customer is
 - Month-to-month customers have higher churn rates.
 - Customers with shorter tenure are more likely to churn.
 - Higher monthly charges increase churn probability.
+
+## Key Visualizations
+
+### Customer Churn Distribution
+
+![Customer Churn Distribution](plots/churn_dist.png)
+
+### Churn Rate by Contract Type
+
+![Contract Type](plots/churn_contract_type.png)
+
+### Tenure Months by Churn Status
+
+![Tenure](plots/tenure_months_by_churn.png)
+
+### Monthly Charges by Churn Status
+
+![Monthly Charges](plots/monthly_charges_by_churn.png)
+
+### Feature Importance - Random Forest
+
+![Feature Importance](plots/top_feature_importance.png)
